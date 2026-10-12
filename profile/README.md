@@ -13,7 +13,7 @@ VitaDigging(비타디깅)은 **AI 기반 맞춤형 영양제 추천 서비스**�
 | :-----: | :-----: | :-----: | :-----: |
 | 박소이(팀장) | 김보경 | 김미주 | 김다빈 |
 | [@soyyyyy](https://github.com/soyyyyy) | [@borybop](https://github.com/borybop) | [@jujukim00](https://github.com/jujukim00) | [@dalpaeng6](https://github.com/dalpaeng6) |
-| FrontEnd | FrontEnd | BackEnd, AI | BackEnd |
+| TL, FrontEnd | FrontEnd | BackEnd, AI | BackEnd |
 
 <br/>
 <br/>
